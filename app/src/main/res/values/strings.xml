@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QR Generator</string>
+    <string name="input_hint">Введите текст или ссылку</string>
+    <string name="btn_generate">Сгенерировать QR</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_share">Поделиться</string>
+
+    <string name="error_empty_input">Введите текст или ссылку</string>
+    <string name="error_generate_failed">Не удалось создать QR-код. Возможно, текст слишком длинный</string>
+
+    <string name="error_no_qr">Сначала сгенерируйте QR-код</string>
+    <string name="msg_saved">QR-код сохранён в Pictures/QRGenerator</string>
+    <string name="error_save_failed">Не удалось сохранить QR-код</string>
+    <string name="error_permission_denied">Без разрешения на запись сохранить QR-код нельзя</string>
+    <string name="share_chooser_title">Поделиться QR-кодом</string>
+    <string name="error_share_failed">Не удалось поделиться QR-кодом</string>
+</resources>
